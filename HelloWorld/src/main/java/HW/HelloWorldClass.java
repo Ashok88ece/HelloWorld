@@ -11,6 +11,7 @@ public class HelloWorldClass {
 	
 	public void method2() {
 		System.out.println("Method 2 Executed");
+		System.out.println("GitHub Commit Meesage");
 	}
 	
 	public static void method3() {
