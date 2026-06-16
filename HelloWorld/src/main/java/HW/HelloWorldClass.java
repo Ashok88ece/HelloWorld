@@ -11,7 +11,7 @@ public class HelloWorldClass {
 	
 	public void method2() {
 		System.out.println("Method 2 Executed");
-		System.out.println("Test Message");
+		System.out.println("Test Message 123");
 	}
 	
 	public static void method3() {
