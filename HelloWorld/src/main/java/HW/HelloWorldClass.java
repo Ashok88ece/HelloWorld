@@ -7,6 +7,7 @@ public class HelloWorldClass {
 	
 	public void method1() {
 		System.out.println("Method 1 Executed");
+		System.out.println("Method 2 Executed");
 	}
 	
 	public void method2() {
