@@ -11,10 +11,11 @@ public class HelloWorldClass {
 	
 	public void method2() {
 		System.out.println("Method 2 Executed");
+		System.out.println("Test Message");
 	}
 	
 	public static void method3() {
-		System.out.println("No need to create object bcs am static method");
+		System.out.println("No need to create object because I am static method");
 	}
 
 	public static void main(String[] args) {
@@ -22,7 +23,7 @@ public class HelloWorldClass {
 		HelloWorldClass obj =new HelloWorldClass();
 		obj.method1();
 		obj.method2();
-		method3();
+	    method3();
 
 	}
 
