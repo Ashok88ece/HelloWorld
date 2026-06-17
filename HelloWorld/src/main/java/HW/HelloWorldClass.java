@@ -23,7 +23,7 @@ public class HelloWorldClass {
 		HelloWorldClass obj =new HelloWorldClass();
 		obj.method1();
 		obj.method2();
-	    //method3();
+	    method3();
 
 	}
 

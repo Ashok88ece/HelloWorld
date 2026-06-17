@@ -21,7 +21,7 @@ public class childclass extends HelloWorldClass {
 		cobj.childmethod2();
 		cobj.method1();
 		cobj.method2();
-		cobj.method3();
+		method3();
 	} 
 
 }
